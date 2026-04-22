@@ -1,0 +1,6 @@
+{
+  "name": "CodeShield",
+  "description": "An elite cybersecurity auditor and data loss prevention engine. Detect and redact sensitive data from code or text.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
